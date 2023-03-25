@@ -50,3 +50,6 @@
 0.0.0.0 trckr.braveglobal.tv
 0.0.0.0 3lift.com
 0.0.0.0 trafficjunky.com
+0.0.0.0 vungle.com
+0.0.0.0 ads.vungle.com
+
