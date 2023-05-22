@@ -52,4 +52,19 @@
 0.0.0.0 trafficjunky.com
 0.0.0.0 vungle.com
 0.0.0.0 ads.vungle.com
-
+0.0.0.0 api.digitalhomeservices.yahoo.com
+0.0.0.0 time-A.timefreq.bldrdoc.gov
+0.0.0.0 bis.tv.widgets.yahoo.com
+0.0.0.0 pt-mtk.oui-0x00199d.com
+0.0.0.0 a2z.com
+0.0.0.0 at.atwola.com
+0.0.0.0 rtb-adingenious.com
+0.0.0.0 ads-2u554t.rtb-adingenious.com 
+0.0.0.0 ads-2u554t.rtb-adingenious.com 
+0.0.0.0 ads-tag.rtb-adingenious.com 
+0.0.0.0 ads-tag.ortb.net
+0.0.0.0 rubiconproject.com
+0.0.0.0 ads.smt-bid.com
+0.0.0.0 gtq6.sct.sc-prod.net
+0.0.0.0 rtb-adingenious.com
+0.0.0.0 yt4.ggpht.com
