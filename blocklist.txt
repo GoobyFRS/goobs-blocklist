@@ -101,3 +101,9 @@
 0.0.0.0 supersonicads.com
 0.0.0.0 pangle.io
 0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 phicdn.net
+0.0.0.0 allawnos.com
+0.0.0.0 lencr.org
+0.0.0.0 x1.x.lencr.org
+0.0.0.0 samsungapps.com
+
